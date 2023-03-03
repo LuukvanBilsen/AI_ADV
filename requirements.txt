@@ -3,3 +3,10 @@ pandas
 matplotlib
 seaborn
 sklearn
+scikit-learn
+keras
+tensorflow
+torch
+beautifulsoup4
+scrapy
+numpy
