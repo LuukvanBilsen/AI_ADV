@@ -20,3 +20,4 @@ doc/**/*.pdf
 
 /Dataset/BirdSet
 /temp/
+/notebooks/.ipynb_checkpoints
