@@ -5,7 +5,7 @@
 /notebooks/logs
 /notebooks/saved_checkpoints
 /notebooks/saved_vars
-
+.vscode
 
 ###################################################################### 
 # ignore all .a files
