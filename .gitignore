@@ -8,6 +8,11 @@
 .vscode
 cuda-repo-wsl-ubuntu-12-1-local_12.1.0-1_amd64.deb
 
+/notebooks/torch/.ipynb_checkpoints
+/notebooks/torch/cache_dir
+/notebooks/torch/outputs
+/notebooks/torch/runs
+
 ###################################################################### 
 # ignore all .a files
 *.a
